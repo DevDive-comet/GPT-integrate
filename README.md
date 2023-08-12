@@ -3,7 +3,7 @@
 
 ❌🔑 <strong>NOT REQUIRE ANY API KEY</strong> 
 
-This project features a WebUI utilizing the [G4F API](https://github.com/xtekky/gpt4free). <br>
+This project features a WebUI utilizing the [G4F API](https://github.com/goblincomet/GPT-integrate). <br>
 Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
 ## 🚧 Known bugs:
@@ -49,7 +49,7 @@ To get started with this project, you'll need to clone the repository and have [
 Run the following command to clone the repository:  
 
 ```
-git clone https://github.com/ramonvc/freegpt-webui.git
+git clone https://github.com/goblincomet/GPT-integrate.git
 ```
 
 ### Install Dependencies :wrench: 
@@ -88,7 +88,7 @@ To enable it, just go to the `config.json` file and change the value of the "use
 ```
 "use_auto_proxy": true
 ```
-![use-auto-proxy-gif](https://github.com/ramonvc/gptfree-webui/assets/13617054/f83c6217-411c-404c-9f4c-8ae700a486d1)
+![use-auto-proxy-gif](https://github.com/goblincomet/GPT-integrate/assets/13617054/f83c6217-411c-404c-9f4c-8ae700a486d1)
 
 
 
